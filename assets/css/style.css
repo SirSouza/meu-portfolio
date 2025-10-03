@@ -532,9 +532,6 @@ body.menu-aberto {
   .nav-list.active {
     transform: translateX(0);
   }
-  .nav-list li {
-    
-  }
   .nav-list a {
     font-size: 15px;
   }

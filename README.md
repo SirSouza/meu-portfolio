@@ -16,7 +16,7 @@ Criar um site responsivo e moderno para apresentar meus projetos e facilitar o c
 👉 [Meu Portfólio Online](https://dev-ewerton.vercel.app/)
 
 ## 📷 Preview
-[Preview](assets/images/preview.png)
+![Preview](assets/images/preview.png)
 
 ## 📬 Contato
 - GitHub: [@SirSouza](https://github.com/SirSouza)
